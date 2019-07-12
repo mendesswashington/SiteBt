@@ -1,0 +1,29 @@
+#corpo{
+	background-color: rgba(240, 173, 78,1);
+}
+.carousel-inner > .item > img,
+      .carousel-inner > .item > a > img {
+      width:70%; 
+      margin:auto;
+ }
+#barra{
+	background-color:rgba(216, 122, 104, 0.2);
+}
+
+#btn-menu{
+	color: black;
+}
+#text-menu{
+	color: black;
+}
+#text-menu h4:hover{
+	color: red;
+}
+#LiMenu:hover {
+	background-color: rgba(255,255,255,0.5);
+}
+#painel{
+	background-color: rgba(183, 5, 5, 0); 
+	border: 1px solid rgba(0,0,0,0.1);"
+
+}
